@@ -1,1 +1,1 @@
-Посилання на сайт (vadilonische.github.io)
+[Посилання на сайт] (vadilonische.github.io)
